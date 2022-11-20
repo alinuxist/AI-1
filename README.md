@@ -1,6 +1,6 @@
 # chapter 1
 
-libraries that should be install :
+Libraries that should be installed :
 
 1. Numpy
 2. Scipy
